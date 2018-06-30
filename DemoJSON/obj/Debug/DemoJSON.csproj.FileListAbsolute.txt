@@ -1,0 +1,10 @@
+C:\Project\NETFramework\DemoJSON\DemoJSON\bin\Debug\DemoJSON.exe.config
+C:\Project\NETFramework\DemoJSON\DemoJSON\bin\Debug\DemoJSON.exe
+C:\Project\NETFramework\DemoJSON\DemoJSON\bin\Debug\DemoJSON.pdb
+C:\Project\NETFramework\DemoJSON\DemoJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Project\NETFramework\DemoJSON\DemoJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Project\NETFramework\DemoJSON\DemoJSON\obj\Debug\DemoJSON.csprojAssemblyReference.cache
+C:\Project\NETFramework\DemoJSON\DemoJSON\obj\Debug\DemoJSON.csproj.CoreCompileInputs.cache
+C:\Project\NETFramework\DemoJSON\DemoJSON\obj\Debug\DemoJSON.csproj.CopyComplete
+C:\Project\NETFramework\DemoJSON\DemoJSON\obj\Debug\DemoJSON.exe
+C:\Project\NETFramework\DemoJSON\DemoJSON\obj\Debug\DemoJSON.pdb
